@@ -13,4 +13,4 @@ jobs:
         with:
           node-version: "20"
       - name: install dependencies
-        run: npm ci
+        run: npm ci --ignore-scripts
