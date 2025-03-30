@@ -21,7 +21,7 @@ npm install -g alfred-open-in-ide
 
 ### Github releases
 
-1. Download the latest release from the [releases page](https://github.com/jackw/alfred-open-in-cursor/releases)
+1. Download the latest release from the [releases page](https://github.com/jackw/alfred-open-in-ide/releases)
 2. Double-click the downloaded `.alfredworkflow` file to install
 3. Alfred will prompt you to import the workflow - click "Import"
 
@@ -67,8 +67,8 @@ Once configured the Alfred keyword will match the name of your chosen IDE (`curs
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/jackw/alfred-open-in-cursor.git
-   cd alfred-open-in-cursor
+   git clone https://github.com/jackw/alfred-open-in-ide.git
+   cd alfred-open-in-ide
    ```
 
 2. Install dependencies:

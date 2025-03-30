@@ -1,6 +1,6 @@
 {
-  "name": "alfred-open-in-cursor",
-  "version": "1.0.0",
+  "name": "alfred-open-in-ide",
+  "version": "0.0.1",
   "description": "",
   "main": "dist/index.js",
   "type": "module",
