@@ -1,0 +1,8 @@
+name: Test Action
+run-name: ${{ github.actor }} test Gihub action
+on: [push]
+jobs:
+  Test-action:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "The job is triggered by ${{ github.event_name }}"
