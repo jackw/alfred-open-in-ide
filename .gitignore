@@ -1,4 +1,6 @@
+.cursor
 node_modules
 dist
+!info.plist
 prefs.plist
-.cursor
+.DS_Store
